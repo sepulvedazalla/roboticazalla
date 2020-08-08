@@ -1,6 +1,7 @@
 #include <VarSpeedServo.h>
-//mrrobotzalla
-//rafaelzallalinux@gmail.com
+//TCC COD MOVIMENTOS BRAÇOS
+//RAFAEL SEPULVEDA ZALLA & MAURO TEVES
+//mrrobotzalla@gmail.com
 
 VarSpeedServo s11,s12,s13,s14,s21,s22,s23,s24;
 
